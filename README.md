@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** with com
 - 🌱 I'm always learning about the latest trends in AI, machine learning, and full-stack development
 - 💼 I specialize in building scalable applications with AI capabilities
 - 🤝 I'm open to collaborating on innovative AI and automation projects
-- 💡 I love solving complex problems with elegant solutions 
+- 💡 I love solving complex problems with elegant solutions  
 
 ## 🛠️ Tech Stack
 
